@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/ravikmatt/demo-app
-  newTag: 620e62b7959b91ba35dcabdeaab366e9e6856e52
+  newTag: 0b93e1d44ff8cde112b5fa180f85acdfdb247132
