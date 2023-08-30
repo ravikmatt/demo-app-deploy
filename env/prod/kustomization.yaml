@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/ravikmatt/demo-app
+  newTag: 5a76ed39667b4954242b750bc38de6d9bb56d27a
